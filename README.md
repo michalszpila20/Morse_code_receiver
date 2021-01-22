@@ -1,1 +1,1 @@
-# Morse_code_receiver
+# Morse code receiver
